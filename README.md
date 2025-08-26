@@ -1,2 +1,1 @@
-First merge test.
-First merge test
+This is my first merge test.
